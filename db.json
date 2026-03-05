@@ -1,14 +1,15 @@
 {
-    "usuario" : [
-        {
-            "id" : 1,
-            "login" : "admin",
-            "senha" : "123"
-        },
-        {
-            "id" : 2,
-            "login" : "user",
-            "senha" : "321"
-        }
-    ]
-} 
+  "usuario": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123"
+    },
+    {
+      "id": "2",
+      "login": "user",
+      "senha": "321"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
